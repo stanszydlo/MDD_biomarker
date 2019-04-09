@@ -1,5 +1,11 @@
 # Depression Biomarker Project 
 
+This project used  microarray [data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE98793) published in a [2017 Biological Psychiatry study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5720346/pdf/main.pdf) to 
+
+1) Discover a panel of genes that distinguish clinically depressed participants from healthy controls
+2) Train predictive models to distinguish clinically depressed participants from healthy controls.
+3) Stratify the participant population into biologically meaningful subgroups.
+
 ### Background
 
 Clinical depression places an enormous social and economic toll on the developed world. This increasingly prevalent disorder remains a leading source of morbidity and mortality, yet its standard of care has been slow to evolve in the past half century.<sup>1</sup> Diagnostic criteria continue to rely largely on behavioral observations to guide participant classification and perpetuate imprecise, trial-and-error treatment for much of the affected population.<sup>2</sup>
@@ -7,14 +13,6 @@ Clinical depression places an enormous social and economic toll on the developed
 The National Institute for Mental Health has recognized a pressing need for more robust diagnostic methods and fuller understanding of psychiatric disorders’ biological mechanisms, giving rise to the Research Domain Criteria.<sup>3</sup> This novel research framework prioritizes an integrative understanding of psychiatric illness across a number of mechanistic levels – from genes, macromolecules, and cells to circuits, physiology, and behavior. As a part of its mission to accelerate Psychiatry into the arena of precision medicine, the RDoC initiative aggregates clinical data to discover measurable biomarkers that can inform early detection and therapeutic intervention.<sup>4</sup>
 
 In pursuit of such of such biomarkers, a growing body of research has uncovered a strong link between chronic inflammation and clinical depression.<sup>5</sup> The neuroimmune hypothesis originating from this research describes how elevated peripheral inflammation—whether induced by chronic stress or acute infection—can infiltrate the central nervous system to disrupt neurotransmitter metabolism, neuroendocrine sensitivity, and microglial function. All of these downstream dysregulations can collectively precipitate the heterogenous set of behavioral symptoms that characterize clinical depression. Such findings suggest that a blood-based biomarker panel may help identify and stratify participants with clinical depression, potentially aiding in the development of more preventative and personalized standard of mental healthcare.
-
-###  Specific Aims
-
-This project used  microarray [data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE98793) published in a [2017 Biological Psychiatry study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5720346/pdf/main.pdf) to 
-
-1) Discover a panel of genes that distinguish clinically depressed participants from healthy controls
-2) Train predictive models to distinguish clinically depressed participants from healthy controls.
-3) Stratify the participant population into biologically meaningful subgroups.
 
 ### Data Source
 
