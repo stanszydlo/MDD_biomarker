@@ -2,7 +2,7 @@
 
 This project used  microarray [data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE98793) published in a [2017 Biological Psychiatry study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5720346/pdf/main.pdf) to 
 
-1) Discover a panel of genes that distinguish clinically depressed participants from healthy controls
+1) Discover a panel of genes that distinguishes clinically depressed participants from healthy controls
 2) Train predictive models to distinguish clinically depressed participants from healthy controls.
 3) Stratify the participant population into biologically meaningful subgroups.
 
